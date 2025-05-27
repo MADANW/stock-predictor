@@ -1,4 +1,4 @@
-# Trading Project 1
+# Stock Predictor
 
 🚧 **This project is currently under construction** 🚧
 
