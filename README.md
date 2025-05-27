@@ -17,4 +17,4 @@ We're working hard to bring you something amazing. Please check back soon for up
 
 ---
 
-*Last updated: $(date)* 
+*Last updated: 05 - 26 - 2025* 
